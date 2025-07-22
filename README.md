@@ -26,11 +26,7 @@ I'm a Systems and Computer Engineering student passionate about technology, arti
 ## 📈 More About Me
 
 <!-- Here you can add more information. Some ideas: -->
-- 🌟 **Projects:** List or link to your favorite/open-source projects.
-- 📚 **Currently Learning:** Mention frameworks, languages, or topics you're exploring.
-- 💬 **Ask me about:** Technologies or topics you feel confident discussing.
-- 🔗 **Portfolio:** Link to a personal website or portfolio if you have one.
-- 📝 **Blog:** If you write articles, add a link here.
-- 🏆 **Achievements:** Any awards, certifications, or recognitions.
+- 🌟 **Projects:** ColombiaRaices
+- 📚 **Currently Learning:** Rust.
 
 ---
